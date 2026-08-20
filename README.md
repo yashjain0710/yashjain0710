@@ -28,7 +28,6 @@ class YashJain:
     def __init__(self):
         self.name = "Yash N Jain"
         self.education = "B.Tech Computer Science @ SRM AP University"
-        self.cgpa = "8.50 / 10.0"
         self.focus = [
             "Artificial Intelligence",
             "Machine Learning",
